@@ -1,4 +1,4 @@
-# quake-style-resource-pack
+# wrath-resource-pack
 
 Wrath - a Quake-styled resource pack for Minecraft 1.16.4.
 This resource pack was partially inspired by Quake II, Doom 3 and similar games.
